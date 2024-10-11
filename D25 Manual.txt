@@ -159,7 +159,7 @@ dimwishlist:item=3830941962&perks=3250034553,3177308360,1583705720,3966416502,20
 
 // Vantage Point - Vantage Point (mnk,pve)
 //notes: Curated 2 tags:mnk,pve
-dimwishlist:item=3830941962&perks=3250034553,3177308360,2779035018,2173046394,2041432007
+dimwishlist:item=3830941962&perks=3250034553,3177308360,1583705720,2173046394,2041432007
 
 
 // Rake Angle (Adept) - Rake Angle (Adept) (mnk,pve)
