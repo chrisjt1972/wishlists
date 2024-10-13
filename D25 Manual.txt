@@ -142,6 +142,17 @@ dimwishlist:item=3433930495&perks=1467527085,1885400500,2450788523,2458213969,34
 dimwishlist:item=3612142623&perks=1840239774,679225683,1421772400,2416023159,2120661319
 
 
+// Live Fire - Live Fire (mnk,pve)
+//notes: Unknown - Destiny 2 tags:mnk,pve
+dimwishlist:item=3612142623&perks=1840239774,1087426260,1955165503,124408337,2120661319
+
+
+// Live Fire - Live Fire (mnk,pve)
+//notes: Unknown - Destiny 2 tags:mnk,pve
+dimwishlist:item=3612142623&perks=1840239774,1087426260,1820235745,3425386926,2120661319
+dimwishlist:item=3612142623&perks=1840239774,1087426260,247725512,3425386926,2120661319
+
+
 // Accrued Redemption - Accrued Redemption (mnk,pve)
 //notes: Curated tags:mnk,pve
 dimwishlist:item=3621336854&perks=3768438372,2154191829,2450788523,247725512,511914882
