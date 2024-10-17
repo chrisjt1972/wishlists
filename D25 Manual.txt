@@ -103,6 +103,11 @@ dimwishlist:item=2599338624&perks=1844523823,409831596,706527188,2978966579,2041
 dimwishlist:item=2599338624&perks=1844523823,409831596,706527188,2396489472,2041432007
 
 
+// Bitter/Sweet - Bitter/Sweet (god-pve,mnk)
+//notes: TheGamer god roll tags:god-pve,mnk
+dimwishlist:item=2599338625&perks=3525010810,1771897777,3987942396,3078487919,2041432007
+
+
 // Bitter/Sweet - Bitter/Sweet (mnk,pve)
 //notes: Curated tags:mnk,pve
 dimwishlist:item=2599338625&perks=1441682018,2822142346,3108830275,557221067,2041432007
@@ -116,6 +121,16 @@ dimwishlist:item=2720651699&perks=3661387068,2680121939,243981275,1194056669,511
 // Ignition Code - Ignition Code (mnk,pve)
 //notes: Curated tags:mnk,pve
 dimwishlist:item=2761869150&perks=1441682018,409831596,3161816588,563069569,3404929162
+
+
+// Exuviae - Exuviae (god-pve,mnk)
+//notes: TheGamer godroll (stasis) tags:god-pve,mnk
+dimwishlist:item=2823644677&perks=1482024992,3142289711,1955165503,124408337,2041432007
+
+
+// Exuviae - Exuviae (god-pve,mnk)
+//notes: TheGamer godroll (regular) tags:god-pve,mnk
+dimwishlist:item=2823644677&perks=1482024992,3142289711,3400784728,4104185692,2041432007
 
 
 // Exuviae - Exuviae (pve,mnk)
