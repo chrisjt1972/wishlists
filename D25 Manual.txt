@@ -5,9 +5,21 @@ title:D25 Manual
 dimwishlist:item=147444292&perks=839105230,3177308360,1354429876,2551157718,511914882
 
 
+// Insurmountable - Insurmountable (god-pve,mnk)
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:god-pve,mnk
+dimwishlist:item=414045521&perks=839105230,3230963543,243981275,4049631843,2041432007
+
+
 // Insurmountable - Insurmountable (mnk,pve)
 //notes: Curated Roll tags:mnk,pve
 dimwishlist:item=414045521&perks=3250034553,3142289711,2579169598,1194056669,2041432007
+
+
+// Noxious Vetiver - Noxious Vetiver (god-pve,mnk)
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:god-pve,mnk
+dimwishlist:item=825495813&perks=1482024992,3142289711,1119449540,3966416502,2041432007
 
 
 // Noxious Vetiver - Noxious Vetiver (mnk,pve)
@@ -73,6 +85,12 @@ dimwishlist:item=2598420927&perks=3661387068,3177308360,2946784966,1890422124,34
 dimwishlist:item=2598420927&perks=1840239774,106909392,1820235745,3425386926,3404929162
 
 
+// Liturgy - Liturgy (god-pve,mnk)
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:god-pve,mnk
+dimwishlist:item=2599338624&perks=3525010810,3301904089,3987942396,2978966579,2041432007
+
+
 // Liturgy - Liturgy (pve,mnk)
 //notes: Curated tags:pve,mnk
 dimwishlist:item=2599338624&perks=1478423395,3032599245,2039302152,2978966579,2041432007,2041432007
@@ -104,7 +122,8 @@ dimwishlist:item=2599338624&perks=1844523823,409831596,706527188,2396489472,2041
 
 
 // Bitter/Sweet - Bitter/Sweet (god-pve,mnk)
-//notes: TheGamer god roll tags:god-pve,mnk
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:god-pve,mnk
 dimwishlist:item=2599338625&perks=3525010810,1771897777,3987942396,3078487919,2041432007
 
 
@@ -129,7 +148,8 @@ dimwishlist:item=2823644677&perks=1482024992,3142289711,1955165503,124408337,204
 
 
 // Exuviae - Exuviae (god-pve,mnk)
-//notes: TheGamer godroll (regular) tags:god-pve,mnk
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:god-pve,mnk
 dimwishlist:item=2823644677&perks=1482024992,3142289711,3400784728,4104185692,2041432007
 
 
@@ -151,6 +171,12 @@ dimwishlist:item=2848549302&perks=4067834857,3429800428,880644845,2579169598,105
 dimwishlist:item=2848549302&perks=4067834857,1500996326,880644845,2579169598,1050127423
 
 
+// Scavenger's Fate - Scavenger's Fate (mnk,god-pvp)
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:mnk,god-pvp
+dimwishlist:item=2913577176&perks=1300023272,3142289711,3161816588,1194056669,2041432007
+
+
 // Scavenger's Fate - Scavenger's Fate (mnk,pve)
 //notes: Curated tags:mnk,pve
 dimwishlist:item=2913577176&perks=1332244541,791862061,3161816588,555281244,2041432007
@@ -160,6 +186,11 @@ dimwishlist:item=2913577176&perks=1332244541,791862061,3161816588,555281244,2041
 //notes: Curated tags:mnk,pve
 dimwishlist:item=3293524502&perks=4090651448,2969185026,2779035018,2594592626,1281216113
 dimwishlist:item=3293524502&perks=4090651448,2969185026,2779035018,2594592626,744217850
+
+
+// Red Tape - Red Tape (god-pve,mnk)
+//notes: TheGamer gold-roll tags:god-pve,mnk
+dimwishlist:item=3423493037&perks=839105230,3142289711,1955165503,124408337
 
 
 // Red Tape - Red Tape (mnk,pve)
@@ -202,6 +233,12 @@ dimwishlist:item=3621336854&perks=3768438372,2154191829,2450788523,247725512,511
 dimwishlist:item=3753063346&perks=3661387068,2420895100,3017780555,1194056669,4008116374
 
 
+// Sovereignty - Sovereignty (god-pve,mnk)
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:god-pve,mnk
+dimwishlist:item=3818198556&perks=839105230,3142289711,3038247973,1134488199,2041432007
+
+
 // Sovereignty - Sovereignty (pve,mnk)
 //notes: Curated tags:pve,mnk
 dimwishlist:item=3818198556&perks=1392496348,1431678320,2866798147,1134488199,2041432007
@@ -213,6 +250,12 @@ dimwishlist:item=3818198556&perks=3250034553,2420895100,2848615171,1134488199,20
 dimwishlist:item=3818198556&perks=3250034553,3177308360,2848615171,1134488199,2041432007
 dimwishlist:item=3818198556&perks=1482024992,2420895100,2848615171,1134488199,2041432007
 dimwishlist:item=3818198556&perks=1482024992,3177308360,2848615171,1134488199,2041432007
+
+
+// Vantage Point - Vantage Point (god-pve,mnk)
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:god-pve,mnk
+dimwishlist:item=3830941962&perks=839105230,3142289711,1583705720,4049631843,2041432007
 
 
 // Vantage Point - Vantage Point (mnk,pve)
@@ -295,6 +338,13 @@ dimwishlist:item=4176873718&perks=4090651448,1968497646,2617553311,1171887445,51
 // Veleda-F - Veleda-F (mnk,pve)
 //notes: Curated tags:mnk,pve
 dimwishlist:item=4200122994&perks=3661387068,3142289711,1821614984,1546637391,1607056502
+
+
+// Heretic's Fervor - Heretic's Fervor (god-pve,mnk)
+//notes: TheGamer god roll
+https://www.thegamer.com/destiny-2-revenant-seasonal-weapon-god-rolls/ tags:god-pve,mnk
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3300816228,3194351027,2041432007
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3300816228,1439600632,2041432007
 
 
 // Heretic's Fervor - Heretic's Fervor (mnk,pve)
